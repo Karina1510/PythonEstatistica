@@ -1,7 +1,8 @@
 # PythonEstatistic
 Olá, me chamo Karina! Este é um dos meus projetos estudos.
 
-<<iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc">via GIPHY</a></p>>
+(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJkYWxqY2NiZHc3aXVoYWM2eWM1YXozM3kyNGE2NGVxaWpkazY0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif)
+
 
 ## Tá karina, mas o que é de fato?
 Está é uma resolução de uma lista de estudos de estatística com python, especialmente para análise de dados 
