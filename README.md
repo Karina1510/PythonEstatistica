@@ -63,6 +63,6 @@ Mais simples, apenas a raiz quadrada da variância amostral
 *random = fornece várias funções para gerar números aleatórios e fazer outras operações relacionadas à aleatoriedade.
 *math = Diversas operações matemáticas
 
-<iframe src="https://giphy.com/embed/HEOQ8abOwAxbHmpmTR" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/math-calculate-hyper-cats-HEOQ8abOwAxbHmpmTR">via GIPHY</a></p>
+![adeus](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFzeHludmNhOXo0OWd1bHZpZXJ3a2w0dmNnNmJudGhsaW5jZzhpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif)
 
-
+# OBRIGADO :)
