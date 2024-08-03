@@ -1,7 +1,7 @@
 # PythonEstatistic
 Olá, me chamo Karina! Este é um dos meus projetos estudos.
 
-<iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc">via GIPHY</a></p>
+<<iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc">via GIPHY</a></p>>
 
 ## Tá karina, mas o que é de fato?
 Está é uma resolução de uma lista de estudos de estatística com python, especialmente para análise de dados 
@@ -62,6 +62,6 @@ Mais simples, apenas a raiz quadrada da variância amostral
 *random = fornece várias funções para gerar números aleatórios e fazer outras operações relacionadas à aleatoriedade.
 *math = Diversas operações matemáticas
 
-(<iframe src="https://giphy.com/embed/HEOQ8abOwAxbHmpmTR" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/math-calculate-hyper-cats-HEOQ8abOwAxbHmpmTR">via GIPHY</a></p>)
+<iframe src="https://giphy.com/embed/HEOQ8abOwAxbHmpmTR" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/math-calculate-hyper-cats-HEOQ8abOwAxbHmpmTR">via GIPHY</a></p>
 
 
