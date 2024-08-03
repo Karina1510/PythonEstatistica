@@ -18,15 +18,19 @@ Some todos os elementos e divide pela a quantidade dos elementos
 (x+y+y)/3 (ou a quantidade de elementos somados)
 
 # mediana
-Depende, quando impar
+Depende, quando o final é impar
 Ordene seu conjunto de elementos, preferencialmente em ordem crescente, e sua mediana é o 3° elemento
-*Exemplo*
+*Exemplo
 (2,4,6,7,8)
 mediana = 6
+Quando o final é par, pegue o valor do 3° e 4° elemento e faça esse cálculo. (x + y) /2:
+*Exemplo
+(2,4,*6,*6,8,5)
+(6+6)/2 = 6
 
 # moda
 Não há exatamente uma fôrmula, mas há moda quando há repetição de numero nos elementos (pode ter mais de uma moda)
-*Exemplo*
+*Exemplo
 (2,3,5,2,6,2,3,2) 
 moda = 2 
 repetição = 4
@@ -34,7 +38,7 @@ repetição = 4
 # Variância amostral
 Este é mais complexo, basicamente dentro de uma amostra, é feito uma média o resultado da média e subtraido por cada elemento da amostra, 
 o resultado é elevado ao quadrado, é somado todos os resultados e depois dividido pela quantidade de elementos -1, ufaa, vamo lá
-*Exemplo*
+*Exemplo
 (10,3,5)
 10+3+5/3 = 6
 
@@ -50,7 +54,7 @@ variância = 13
 
 # Desvio padrão 
 Mais simples, apenas a raiz quadrada da variância amostral
-*Exemplo*
+*Exemplo
 √13 = 3.60....
 
 ##### Para fazer no python 
