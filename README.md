@@ -1,7 +1,7 @@
 # PythonEstatistic
 Olá, me chamo Karina! Este é um dos meus projetos estudos.
 
-(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJkYWxqY2NiZHc3aXVoYWM2eWM1YXozM3kyNGE2NGVxaWpkazY0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif)
+![olá](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJkYWxqY2NiZHc3aXVoYWM2eWM1YXozM3kyNGE2NGVxaWpkazY0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif)
 
 
 ## Tá karina, mas o que é de fato?
